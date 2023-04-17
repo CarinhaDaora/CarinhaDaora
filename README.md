@@ -10,7 +10,5 @@
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinhaDaora&show_icons=true&theme=synthwave)
 
-<br>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinhaDaora)
