@@ -8,4 +8,4 @@
 <br>
 
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinhaDaora&show_icons=true&theme=radical)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinhaDaora&show_icons=true&theme=tokyonight)
