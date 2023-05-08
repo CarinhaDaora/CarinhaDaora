@@ -10,7 +10,7 @@
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuraza&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuraza&layout=compact)](https://github.com/Shuraza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuraza&layout=compact)](https://github.com/Shuraza/github-readme-stats&theme=dracula)
 
 
 ## Contato:
