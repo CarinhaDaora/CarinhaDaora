@@ -2,7 +2,7 @@
 
 
 - Me chamo Samuel De Souza, tenho 17 anos e moro em joinville - SC. 
-- Atualmente fazendo Técnico em Informática de Internet no Senac.
+- Técnico em Informática de Internet pelo Senac.
 
 <br>
 <br>
