@@ -8,7 +8,7 @@
 <br>
 
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarinhaDaora&show_icons=true&theme=synthwave)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuraza&show_icons=true&theme=synthwave)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinhaDaora)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuraza)
