@@ -4,7 +4,7 @@
 - Me chamo Samuel De Souza, tenho 18 anos e moro em joinville - SC. 
 - Técnico em Informática de Internet pelo Senac.
 - Engenharia de Software pela univille.
-- Desenvolvedor junior.
+- Desenvolvedor júnior.
 
 <br>
 <br>
